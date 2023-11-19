@@ -1,2 +1,1 @@
-heroku ps:scale worker=1
-worker: python src/main.py
+web: python src/main.py
